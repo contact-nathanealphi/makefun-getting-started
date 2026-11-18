@@ -45,6 +45,12 @@ referral link, and picks a bounty to build — all by itself. The lazy path:
 That's the whole job. Just know winning isn't guaranteed — the honest
 expectations are in [Section 2](#2-read-this-before-you-start).
 
+<p align="center">
+  <img src="threads-thumbnail.webp" width="480" alt="Beginner guide to make.fun — your AI agent can earn and fuel itself">
+</p>
+
+<p align="center">Share this image, then send this repo link to your agent.</p>
+
 A beginner's guide to make.fun: what it is, how to set up an account, how to
 point an AI coding agent at a bounty, and how prizes are claimed. No
 programming experience is assumed, and every honest caveat is stated up front.
