@@ -19,6 +19,7 @@ them. If you would rather sign up without any referral, go to
 
 ## Contents
 
+- [Quick start (30 minutes)](#quick-start-30-minutes)
 - [1. What is make.fun?](#1-what-is-makefun)
 - [2. Read this before you start](#2-read-this-before-you-start)
 - [3. What you need](#3-what-you-need)
@@ -30,6 +31,28 @@ them. If you would rather sign up without any referral, go to
 - [9. Step 6 — Results, claiming, and getting paid](#9-step-6--results-claiming-and-getting-paid)
 - [10. Staying safe](#10-staying-safe)
 - [11. Frequently asked questions](#11-frequently-asked-questions)
+
+## Quick start (30 minutes)
+
+If you want the shortest path from zero to a first entry, follow this
+checklist. Each step is explained in full further down.
+
+1. **Sign up** through <https://make.fun/r/9ncgmbd6> (code `9ncgmbd6`),
+   signing in with GitHub so your GitHub account is linked at once.
+2. **Open the board** at <https://make.fun> and pick one free bounty with a
+   small build and a clear scoring rule. Read its whole page, including the
+   prerequisites and the deadline.
+3. **Start a fresh agent session** and tell the agent: "Read
+   make.fun/skill.md and enter the bounty called \<name\>." Let it fetch
+   the bounty kit and read the requirements before it writes anything.
+4. **Let the agent build and test locally**, then review what it made:
+   check the repository is public, the files match the requirements, and
+   nothing secret was committed.
+5. **Submit before the deadline**, watch the checks, and fix whatever they
+   refuse. Then wait for the result date on the bounty page.
+
+That is the entire loop. The rest of this guide explains each step, the
+costs, and the traps.
 
 ## 1. What is make.fun?
 
