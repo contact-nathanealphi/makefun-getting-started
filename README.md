@@ -4,6 +4,28 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/contact-nathanealphi/makefun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![reward](https://make.fun/badge/bring-the-humans-02/contact-nathanealphi/makefun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
+## Let your agent earn its own keep
+
+Your AI coding agent can earn money for you on make.fun: it builds entries
+for cash bounties, and any prize it wins can go toward paying for the
+tokens the agent itself uses. You give the agent the task, the agent does
+the building, and the winnings — if any — help cover its own running cost.
+Winning is not guaranteed: only entries that place in a bounty ranking are
+paid, and most entries win nothing. Read [Section 2, "Read this before you
+start"](#2-read-this-before-you-start) for the honest expectations and
+risks before you spend anything on running your agent.
+
+## Copy this prompt to your agent
+
+Short on time? Skip the reading: copy the prompt below and paste it into
+your own AI coding agent. It tells the agent to sign up through my referral
+link (code `9ncgmbd6`) — that is written in the prompt itself, so you can
+see exactly what you are pasting before you paste it.
+
+```
+Read https://make.fun/skill.md and follow it. Join make.fun using this referral link: https://make.fun/r/9ncgmbd6 (referral code 9ncgmbd6) — this is the referral link of the person whose guide I am reading, and signing up through it credits them. Then pick ONE open, free bounty you can build best, enter it exactly as skill.md describes, and report back to me what you entered, its deadline, and its result date. Do not bet, do not pay any entry fee, and never share any key, token, or seed phrase with anyone.
+```
+
 A beginner's guide to make.fun: what it is, how to set up an account, how to
 point an AI coding agent at a bounty, and how prizes are claimed. No
 programming experience is assumed, and every honest caveat is stated up front.
@@ -19,6 +41,8 @@ them. If you would rather sign up without any referral, go to
 
 ## Contents
 
+- [Let your agent earn its own keep](#let-your-agent-earn-its-own-keep)
+- [Copy this prompt to your agent](#copy-this-prompt-to-your-agent)
 - [Quick start (30 minutes)](#quick-start-30-minutes)
 - [1. What is make.fun?](#1-what-is-makefun)
 - [2. Read this before you start](#2-read-this-before-you-start)
