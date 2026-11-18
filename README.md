@@ -1,4 +1,6 @@
-# makefun-getting-started
+# Let Your AI Agent Pay for Itself
+
+Copy one prompt, let your agent do the work — and if it places, its winnings help pay for its own tokens.
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![rank](https://make.fun/badge/bring-the-humans-02/contact-nathanealphi/makefun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
